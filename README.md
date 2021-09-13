@@ -1,19 +1,9 @@
-# ewshop
+书店
+图书商城项目。
 
-## Project setup
-```
-npm install
-```
+技术栈：vue3.x全家桶vant
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+使用<script setup>语法
+  
+[接口地址]
+  （https://www.showdoc.com.cn/1207745568269674/6094279351627422）
