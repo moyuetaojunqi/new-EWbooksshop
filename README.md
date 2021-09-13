@@ -5,5 +5,4 @@
 
 使用<script setup>语法
   
-[接口地址]
-  （https://www.showdoc.com.cn/1207745568269674/6094279351627422）
+[接口地址]（https://www.showdoc.com.cn/1207745568269674/6094279351627422）
